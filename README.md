@@ -14,8 +14,8 @@ Welcome to my GitHub! I'm a **Full-Stack Developer** with over **8 years of expe
 ---
 
 ## 📈 **My Core Skills**
-- 💡 **Languages:** JavaScript (TypeScript), Python, Java, PHP  
-- 🌐 **Frameworks:** Express.js, Next.js, Django, Spring Boot  
+- 💡 **Languages:** JavaScript, TypeScript, Python
+- 🌐 **Frameworks:** Express.js, Next.js, Django
 - ☁️ **Cloud Services:** AWS, Google Cloud, Azure  
 - 🔧 **Tooling:** Git, Webpack, Nginx, Postman  
 - 🧑‍🤝‍🧑 **Collaborative Development:** Agile, Scrum, and mentorship of junior developers.
